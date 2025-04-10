@@ -1,2 +1,3 @@
 # jeremy2
-New project 
+
+New project
